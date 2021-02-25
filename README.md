@@ -1,12 +1,12 @@
-## Empty Example for P5.js
-#### by Scott Kildall
+## Rooms of my Dream House
+#### by Emily Farrow
 
 
 
 ### Overview
-This is a modified version of the p5.js Empty Example that simplifies the directory structure
+This is a website containing different rooms of my dream house. Navigate through the different rooms using keys shown each screen.  
 
 
 ### Technical Details
 
-Modify the sketch.js setup() and draw() functions and begin adding functions!
+Use of variables, arrays, .png files, text boxes, and if/else if statements were used to make this website possible. 
